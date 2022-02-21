@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "category": "Social Media",
+      "websites": [
+        {
+          "name": "Facebook",
+          "link": "https://m.facebook.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/facebook.png"
+        },
+        {
+          "name": "FB Lite",
+          "link": "https://mbasic.facebook.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/lite.png"
+        },
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/instagram.png"
+        },
+        {
+          "name": "YouTube",
+          "link": "https://m.youtube.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/youtube.png"
+        },
+        {
+          "name": "LinkedIn",
+          "link": "https://linkedin.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/linkedin.png"
+        },
+        {
+          "name": "Twitter",
+          "link": "https://twitter.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/twitter.png"
+        },
+        {
+          "name": "Snapchat",
+          "link": "https://twitter.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/twitter.png"
+        },
+        {
+          "name": "Whatsapp",
+          "link": "https://twitter.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/twitter.png"
+        },
+        {
+          "name": "Pintrest",
+          "link": "https://twitter.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/twitter.png"
+        }
+      ]
+    },
+    {
+      "category": "Shopping",
+      "websites": [
+        {
+          "name": "Amazon",
+          "link": "https://facebook.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/facebook.png"
+        },
+        {
+          "name": "Flipkart",
+          "link": "https://mbasic.facebook.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/lite.png"
+        },
+        {
+          "name": "Snapdeal",
+          "link": "https://www.instagram.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/instagram.png"
+        },
+        {
+          "name": "Aliexpess",
+          "link": "https://m.youtube.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/youtube.png"
+        },
+        {
+          "name": "Shopclues",
+          "link": "https://linkedin.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/linkedin.png"
+        },
+        {
+          "name": "Ebay",
+          "link": "https://twitter.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/twitter.png"
+        }
+      ]
+    }
+  ]
+}
