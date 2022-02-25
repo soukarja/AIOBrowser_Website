@@ -4,7 +4,8 @@
   --imgsize: 30px;
   --boxsize: 100px;
   --boxgap: 1rem;
-  --background: #eef0f3;
+  --background: #f5f5f5;
+  --lightbg: #fff;
 }
 
 * {
@@ -22,14 +23,17 @@ body{
     align-items: center;
     justify-content: center;
     margin: auto;
-    background-color: var(--background);
+    background-color: var(--lightbg);
 }
 
 .searchbox {
   min-height: 100px;
-  background: var(--background);
+  background: var(--lightbg);
   padding: 1rem;
   display: grid;
+  /* box-shadow: 10px 9px 28px -6px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 10px 9px 28px -6px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 10px 9px 28px -6px rgba(0, 0, 0, 0.2); */
 }
 
 .searchbox img.bg {
@@ -38,6 +42,7 @@ body{
   user-select: none;
   grid-row: 1;
   grid-column: 1;
+  filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, 0.5));
 }
 
 .searchbox .innputBox {
@@ -54,6 +59,7 @@ body{
   overflow: hidden;
   border-radius: 5rem;
   width: 80%;
+  z-index: 10;
 }
 
 .searchbox .innputBox input {
@@ -75,8 +81,20 @@ body{
 
 #content {
   background: var(--background);
+  /* background-color: red; */
   padding: 1rem;
   width: 100%;
+  /* margin-top: -10%; */
+}
+
+.dome{
+  background: var(--background);
+  /* background: red; */
+  width: 100%;
+  height: 100px;
+  --radius:50%;
+  border-top-left-radius: var(--radius);
+  border-top-right-radius: var(--radius);
 }
 
 #content .category {
@@ -86,7 +104,7 @@ body{
 }
 
 #content .category:first-child {
-  margin-top: 1rem;
+  margin-top: -3em;
 }
 
 #content .category .title {

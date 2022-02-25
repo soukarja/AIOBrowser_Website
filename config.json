@@ -1,32 +1,62 @@
 {
   "categories": [
     {
-      "category": "Social Media",
+      "category": "Shopping",
       "websites": [
         {
-          "name": "Facebook",
-          "link": "https://m.facebook.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/facebook.png"
+          "name": "Amazon",
+          "link": "https://amazon.in/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/amazon.png"
         },
         {
-          "name": "FB Lite",
-          "link": "https://mbasic.facebook.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/lite.png"
+          "name": "Flipkart",
+          "link": "https://www.flipkart.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/flipkart.png"
         },
+        {
+          "name": "Myntra",
+          "link": "https://www.myntra.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/myntra.png"
+        },
+        {
+          "name": "Tata Cliq",
+          "link": "https://www.tatacliq.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/tatacliq.png"
+        },
+        {
+          "name": "Paytm Mall",
+          "link": "https://paytmmall.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/paytmmall.png"
+        },
+        {
+          "name": "Lenskart",
+          "link": "https://www.lenskart.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/lensekart.png"
+        },
+        {
+          "name": "Big Basket",
+          "link": "https://www.bigbasket.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/basket.png"
+        },
+        {
+          "name": "Jabong",
+          "link": "https://www.jabong.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/jabong.png"
+        }
+      ]
+    },
+    {
+      "category": "Social Media",
+      "websites": [
         {
           "name": "Instagram",
           "link": "https://www.instagram.com/",
           "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/instagram.png"
         },
         {
-          "name": "YouTube",
-          "link": "https://m.youtube.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/youtube.png"
-        },
-        {
-          "name": "LinkedIn",
-          "link": "https://linkedin.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/linkedin.png"
+          "name": "Facebook",
+          "link": "https://m.facebook.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/facebook.png"
         },
         {
           "name": "Twitter",
@@ -34,54 +64,79 @@
           "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/twitter.png"
         },
         {
-          "name": "Snapchat",
-          "link": "https://twitter.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/twitter.png"
-        },
-        {
           "name": "Whatsapp",
-          "link": "https://twitter.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/twitter.png"
+          "link": "https://web.whatsapp.com",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/whatsapp.png"
         },
         {
-          "name": "Pintrest",
-          "link": "https://twitter.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/twitter.png"
-        }
-      ]
-    },
-    {
-      "category": "Shopping",
-      "websites": [
-        {
-          "name": "Amazon",
-          "link": "https://facebook.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/facebook.png"
+          "name": "Telegram",
+          "link": "https://web.telegram.org",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/telegram.png"
         },
         {
-          "name": "Flipkart",
-          "link": "https://mbasic.facebook.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/lite.png"
-        },
-        {
-          "name": "Snapdeal",
-          "link": "https://www.instagram.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/instagram.png"
-        },
-        {
-          "name": "Aliexpess",
-          "link": "https://m.youtube.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/youtube.png"
-        },
-        {
-          "name": "Shopclues",
+          "name": "LinkedIn",
           "link": "https://linkedin.com/",
           "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/linkedin.png"
         },
         {
-          "name": "Ebay",
-          "link": "https://twitter.com/",
-          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/twitter.png"
+          "name": "Tinder",
+          "link": "https://tinder.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/tinder.png"
+        },
+        {
+          "name": "Youtube",
+          "link": "https://m.youtube.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/youtube.png"
+        }
+      ]
+    },
+    {
+      "category": "Travel",
+      "websites": [
+        {
+          "name": "BookMyShow",
+          "link": "https://bookmyshow.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/bookmyshow.png"
+        },
+        {
+          "name": "OYO",
+          "link": "https://www.oyorooms.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/oyo.png"
+        },
+        {
+          "name": "Goibibo",
+          "link": "https://www.goibibo.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/goibibo.png"
+        },
+        {
+          "name": "Clear Trip",
+          "link": "https://www.cleartrip.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/cleartrip.png"
+        }
+      ]
+    },
+    {
+      "category": "Health",
+      "websites": [
+        {
+          "name": "Netmeds",
+          "link": "https://www.netmeds.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/netmeds.png"
+        },
+        {
+          "name": "1mg",
+          "link": "https://www.1mg.com",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/1mg.png"
+        },
+        {
+          "name": "Practo",
+          "link": "https://www.practo.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/practo.png"
+        },
+        {
+          "name": "ThyroCare",
+          "link": "http://www.thyrocare.com/",
+          "image": "https://res.cloudinary.com/soukarja/image/upload/v1552724849/css/Thyrocare.png"
         }
       ]
     }
